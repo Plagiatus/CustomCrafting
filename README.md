@@ -1,7 +1,9 @@
 # CustomCrafting
 A **prototype** for custom crafting in minecraft
 
-![Video showcase](https://i.imgur.com/3RfCyQs.mp4 "Video Showcase")
+[Click for video showcase](https://i.imgur.com/3RfCyQs.mp4)
+[![Video showcase](https://i.imgur.com/aqtaGNd.png)](https://i.imgur.com/3RfCyQs.mp4)
+
 
 ## How it works
 
