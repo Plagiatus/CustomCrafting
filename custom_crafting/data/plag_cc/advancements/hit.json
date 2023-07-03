@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "hit": {
+            "trigger": "player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "interaction",
+                    "nbt": "{Tags:[\"plag_cc\"]}"
+                }
+            }
+        }
+    },
+    "parent": "plag_cc:root",
+    "rewards": {
+        "function": "plag_cc:hit/hit"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "interact": {
+            "trigger": "player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": "interaction",
+                    "nbt": "{Tags:[\"plag_cc\"]}"
+                }
+            }
+        }
+    },
+    "parent": "plag_cc:root",
+    "rewards": {
+        "function": "plag_cc:interact/interact"
+    }
+}
