@@ -54,8 +54,8 @@ All of these of course depend on your usecase, but here are some ideas for inspi
 
 ## LICENSE
 
-This repository uses the GNU GPL v3, meaning you may distribute, change, adjust, use, etc this sourcecode to your liking, as long as you provide proper credit to the source material (this repository and its author) and note relevant changes.
+This repository uses the MIT license, meaning you may distribute, change, adjust, use, etc this sourcecode to your liking, as long as you keep the LICENSE and Copyright notice therein.
 
 Or in other words:
 
-You can use this as the basis for your own datapack, use it in a map (even comercially) and do whatever else you want with it, as long as you provide proper credit to **Plagiatus** and this repository.
+You can use this as the basis for your own datapack, use it in a map (even comercially) and do whatever else you want with it, as long as you keep the Copyright and License unmodified and include it your creation.
